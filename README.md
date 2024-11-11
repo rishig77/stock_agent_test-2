@@ -1,1 +1,3 @@
-# stock_agent_test-2
+# Stock_Agent_Test-2
+
+Testing another agentic stock trading simulation bot
